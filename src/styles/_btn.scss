@@ -1,0 +1,21 @@
+.btn{
+  padding: 0.6rem $p-2;
+
+  &_add{
+    background: $color-green;
+  }
+
+  &_err{
+    background: $color-error;
+
+  }
+
+  &:hover{
+    opacity: 0.8;
+  }
+
+
+
+
+}
+
